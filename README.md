@@ -5,7 +5,7 @@
 <p align="center">I like data science and machine learning</p>
 
 <p align="center">
-  <img src="img/spongebob.gif">
+  <img src="https://github.com/Quang-Vinh/Quang-Vinh/blob/master/img/spongebob.gif">
 </p>
 
 <p align="center">
