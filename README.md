@@ -1,11 +1,11 @@
 <h1 align="center">
-  Hi I'm Vinh! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">
+  Hi I'm Vinh! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 </h1>
 
 <p align="center">I like data science and machine learning</p>
 
 <p align="center">
-  <img src="https://github.com/Quang-Vinh/Quang-Vinh/blob/master/img/spongebob.gif">
+  <img src="/img/spongebob.gif">
 </p>
 
 <p align="center">
