@@ -16,6 +16,6 @@
 
 ### Hello World 👋
 
-I'm Vinh! 
+I'm Vinh
 
 I like data science and machine learning.
