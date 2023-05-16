@@ -14,8 +14,6 @@
   <img align="center" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quang-Vinh&hide=html,MATLAB&theme=nord">
 </p> -->
 
-### Hello World 👋
-
-I'm Vinh
+### Hello 👋 I'm Vinh 🤓
 
 I like data science and machine learning.
