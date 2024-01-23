@@ -21,7 +21,7 @@
 
 uOttawa • Computer Science and Mathematics
 
-I like data science and machine learning
+I do data things
 
 <blockquote>
   <p>“Sucking at something is the first step to being sorta good at something.”</p>
