@@ -23,9 +23,4 @@ uOttawa • Computer Science and Mathematics
 
 I do data things
 
-<blockquote>
-  <p>“Sucking at something is the first step to being sorta good at something.”</p>
-  <footer>― Jake the Dog</footer>
-</blockquote>
-
 </div>
